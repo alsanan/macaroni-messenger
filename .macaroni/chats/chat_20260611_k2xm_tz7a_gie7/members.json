@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "chat_id": "chat_20260611_k2xm_tz7a_gie7",
+  "members": [
+    {
+      "id": "TZ7A",
+      "display_name": "alsan",
+      "role": "owner"
+    },
+    {
+      "id": "K2XM",
+      "display_name": "MOM",
+      "role": "member"
+    }
+  ]
+}
